@@ -5,8 +5,8 @@
  *void prototypes (void)
  *int prototypes (int)
  */
-int _isupper(int);
+int _isupper(int c);
 
 
 
-#endif /* MAIN_H */
+#endif 
